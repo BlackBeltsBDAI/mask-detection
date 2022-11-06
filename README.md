@@ -10,10 +10,14 @@ The issue of wearing face coverings in public comes up frequently these days. In
 
 
 ### Finding a dataset : 
- this project done using this[] https://www.kaggle.com/datasets/andrewmvd/face-mask-detection  dataset from Kaggel 
+ this project done using [this](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection) dataset from Kaggel. the dataset size 4,072 images.
+with 3 classes:
+With Mask                79%
+Without Mask             17%
+Mask Worn Incorrectly    3%
 
 ### Preprocessing : 
-To shorten the time,  using the preprocessing from this notebook https://www.kaggle.com/code/rohitgadhwar/face-mask-detection-yolov5
+To shorten the time,  using the preprocessing from this[notebook](https://www.kaggle.com/code/rohitgadhwar/face-mask-detection-yolov5)
 
 
 ### Model training : 
