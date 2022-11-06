@@ -20,3 +20,8 @@ To shorten the time,  using the preprocessing from this notebook https://www.kag
 Yolov7 (You Only Look Once version 7) is a real-time object detector currently revolutionizing the computer vision industry with its incredible features. The official YOLOv7 provides unbelievable speed and accuracy compared to its previous versions. YOLOv7 weights are trained from scratch using the COCO dataset. The model can perform real-time object detection for images and videos. It can be utilized directly or through a fine-tuning process. The training was with 2 batches and 50 epochs. 
 Note: the size of the model is greater than 100MB, so this is the the link of it on google drive:
 https://drive.google.com/file/d/1R8bgHduTuOtIN2jWhX5C-q8J2QHFoqx4/view?usp=sharing
+
+
+### Evaluation : 
+
+### Test on images and videos : 
