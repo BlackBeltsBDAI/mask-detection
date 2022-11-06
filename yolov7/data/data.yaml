@@ -1,0 +1,7 @@
+
+train: yolov7/data/train/images
+val: yolov7/data/val/images
+test: yolov7/data/test/images
+
+nc: 3
+names: ['with_mask', 'mask_weared_incorrect', 'without_mask']
