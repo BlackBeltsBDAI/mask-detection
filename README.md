@@ -17,7 +17,17 @@ Without Mask             17%
 Mask Worn Incorrectly    3%
 
 ### Preprocessing : 
-To shorten the time,  using the preprocessing from this[notebook](https://www.kaggle.com/code/rohitgadhwar/face-mask-detection-yolov5)
+To shorten the time,  using the preprocessing from this [notebook](https://www.kaggle.com/code/rohitgadhwar/face-mask-detection-yolov5)
+
+1- Splitted the dataset into:
+Train: 90%
+Validation: 3%
+Test: 7%
+2- Resized images to:
+Width: 640
+Height: 480
+3- Convert annotations from XML to txt
+
 
 
 ### Model training : 
@@ -27,6 +37,14 @@ Note: the size of the model is greater than 100MB, so this is the the link of it
 
 
 ### Evaluation : 
+The mean average of all classes is 0.70.
+
+and the confusion matrix show below:
+
+
+
+
+
 
 ### Test on images and videos : 
 here the video demo to show the result of the test model [here](https://drive.google.com/file/d/13-jVexw1A4w_yw0XynIf2mqkDuDL798A/view?usp=share_link)
