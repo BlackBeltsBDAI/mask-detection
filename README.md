@@ -19,14 +19,17 @@ Mask Worn Incorrectly    3%
 ### Preprocessing : 
 To shorten the time,  using the preprocessing from this [notebook](https://www.kaggle.com/code/rohitgadhwar/face-mask-detection-yolov5)
 
-1- Splitted the dataset into:
-Train: 90%
-Validation: 3%
-Test: 7%
-2- Resized images to:
-Width: 640
-Height: 480
-3- Convert annotations from XML to txt
+1. Splitted the dataset into:
+
+- Train: 90%
+- Validation: 3%
+- Test: 7%
+
+
+2. Resized images to:
+- Width: 640
+- Height: 480
+3. Convert annotations from XML to txt
 
 
 
