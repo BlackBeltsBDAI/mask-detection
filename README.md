@@ -41,7 +41,7 @@ The mean average of all classes is 0.70.
 
 and the confusion matrix show below:
 
-
+![Screenshot](https://github.com/BlackBeltsBDAI/mask-detection/blob/main/runs/train/yolov7x_results8/confusion_matrix.png)
 
 
 
